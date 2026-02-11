@@ -20,7 +20,7 @@ rtl_test
 ###Zadig-Treiber:
 ####Öffne Zadig.
 
-####Wähle Options -> List All Devices.
+####Wähle Options List All Devices.
 
 ####Wähle den Eintrag Bulk-In, Interface (Interface 0).
 
