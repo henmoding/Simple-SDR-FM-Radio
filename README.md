@@ -18,7 +18,8 @@ rtl_test
 ### Windows
 #### Radioconda (Empfohlen): Lade den Installer von der Radioconda Releases Seite herunter. Dies installiert GNU Radio, Python und alle notwendigen Bibliotheken in einem Rutsch.
 ###Zadig-Treiber:
-####Öffne Zadig.
+
+Öffne Zadig.
 
 Wähle Options List All Devices.
 
