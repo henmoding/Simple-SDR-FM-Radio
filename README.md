@@ -6,11 +6,11 @@ An PC oder Laptop
 And an Antenna
 # Install
 ### Linux (Ubuntu/Debian-basiert)
-## Paketquellen aktualisieren:
+#### Paketquellen aktualisieren:
 sudo apt update && sudo apt upgrade
 
-## GNU Radio & SDR-Treiber installieren:
+#### GNU Radio & SDR-Treiber installieren:
 sudo apt install gnuradio python3-pyqt5 soapysdr-module-rtlsdr rtl-sdr
 
-## Hardware-Zugriff einrichten: Damit dein SDR-Stick ohne Root-Rechte erkannt wird, müssen die Udev-Regeln aktiv sein. Teste die Erkennung mit:
+#### Hardware-Zugriff einrichten: Damit dein SDR-Stick ohne Root-Rechte erkannt wird, müssen die Udev-Regeln aktiv sein. Teste die Erkennung mit:
 rtl_test
