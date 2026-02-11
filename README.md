@@ -28,3 +28,13 @@ Wähle den Eintrag Bulk-In, Interface (Interface 0).
 Klicke auf Replace Driver (es muss der WinUSB Treiber sein).
 
 Hinweis: Ohne diesen Schritt wird das Skript den Stick nicht finden.
+
+### Starten der Anwendung
+
+## Speichere die Datei easysdr.py in deinem Projektordner.
+
+## Öffne ein Terminal (oder den Radioconda Prompt unter Windows).
+
+## Führe das Skript aus:
+
+## python easysdr.py
