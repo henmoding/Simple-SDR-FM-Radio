@@ -20,10 +20,10 @@ rtl_test
 ###Zadig-Treiber:
 ####Öffne Zadig.
 
-####Wähle Options List All Devices.
+#####Wähle Options List All Devices.
 
-####Wähle den Eintrag Bulk-In, Interface (Interface 0).
+#####Wähle den Eintrag Bulk-In, Interface (Interface 0).
 
-####Klicke auf Replace Driver (es muss der WinUSB Treiber sein).
+#####Klicke auf Replace Driver (es muss der WinUSB Treiber sein).
 
-####Hinweis: Ohne diesen Schritt wird das Skript den Stick nicht finden.
+#####Hinweis: Ohne diesen Schritt wird das Skript den Stick nicht finden.
