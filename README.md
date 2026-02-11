@@ -1,4 +1,4 @@
-# Simple-SDR-FM-Radio
+## Simple-SDR-FM-Radio
 Hello this Reposertorie is for a Simple FM Radio SDR APP.
 # What You Nead
 An Sdr
@@ -19,7 +19,11 @@ rtl_test
 #### Radioconda (Empfohlen): Lade den Installer von der Radioconda Releases Seite herunter. Dies installiert GNU Radio, Python und alle notwendigen Bibliotheken in einem Rutsch.
 ###Zadig-Treiber:
 ####Öffne Zadig.
+
 ####Wähle Options -> List All Devices.
+
 ####Wähle den Eintrag Bulk-In, Interface (Interface 0).
+
 ####Klicke auf Replace Driver (es muss der WinUSB Treiber sein).
+
 ####Hinweis: Ohne diesen Schritt wird das Skript den Stick nicht finden.
