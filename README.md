@@ -33,4 +33,4 @@ Hinweis: Ohne diesen Schritt wird das Skript den Stick nicht finden.
 
 #### Führe das Skript aus:
 
-#### python3 easysdr.py
+python3 easysdr.py
